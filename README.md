@@ -5,7 +5,7 @@
   Once you get into the file, follow the given steps -</br>
     1)Go to Images folder on the respository</br>
     2)Go to Input Images</br>
-    3)Select "image2.jpg" and add that to the Colab notebook and then run.</br>
+    3)Select "image2.jpg" and add that to the Colab notebook and then run.</br></br></br>
   
   
   
@@ -14,7 +14,7 @@
   Once you get into the file, follow the given steps - </br> 
     1)Go to Images folder on git respository</br>
     2)Go to input Images</br>
-    3)Select "left.jpg" and "right.jpg" and add those to the colab notebook.</br>
+    3)Select "left.jpg" and "right.jpg" and add those to the colab notebook.</br></br></br>
   
   
   
